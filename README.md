@@ -46,4 +46,5 @@ const me = isEngineer? 'Programmer' : 'Engineer'
 <ul>
   <li>Optimization</li>
   <li>Machine Learning</li>
+  <li>Basic hacking</li>
 </ul>
