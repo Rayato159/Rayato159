@@ -27,6 +27,7 @@ const me = isEngineer? 'Programmer' : 'Engineer'
   <li>C, C++</li>
   <li>Python</li>
   <li>Javascript and Node.js</li>
+  <li>Golang(in practice)</li>
   <li>Typescript</li>
 </ul>
 
