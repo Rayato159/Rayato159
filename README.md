@@ -28,12 +28,7 @@ const me = isEngineer? 'Programmer' : 'Engineer'
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="110" heigth="110">
   <img src="https://docs.nestjs.com/assets/logo-small.svg" width="110" heigth="110">
 </p>
-<p align="left">Frontend</p>
 <ul>
   <li>React</li>
-</ul>
-
-<p align="left">Backend</p>
-<ul>
   <li>NestJS</li>
 </ul>
