@@ -35,13 +35,16 @@ const me = isEngineer? 'Programmer' : 'Engineer'
 <p align="left">
   <img src="https://github.com/Rayato159/Rayato159/blob/main/img/angular.png" width="100" heigth="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="110" heigth="110">
+  <img src="https://docs.nestjs.com/assets/logo-small.svg" width="110" heigth="110">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="110" heigth="110">
 </p>
+<p align="left">Frontend</p>
 <ul>
   <li>Angular</li>
   <li>React (in practice)</li>
 </ul>
 
-<h2>Frameworks I used</h2>
+<p align="left">Backend</p>
 <ul>
   <li>NestJS</li>
   <li>ExpressJS</li>
