@@ -32,15 +32,19 @@ const me = isEngineer? 'Programmer' : 'Engineer'
 </ul>
 
 <h2>Frameworks I used</h2>
-<p align="center">
+<p align="left">
   <img src="https://github.com/Rayato159/Rayato159/blob/main/img/angular.png" width="100" heigth="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="110" heigth="110">
-  <img src="https://github.com/Rayato159/Rayato159/blob/main/img/vue.png" width="110" heigth="110">
 </p>
 <ul>
   <li>Angular</li>
-  <li>Vue (in practice)</li>
   <li>React (in practice)</li>
+</ul>
+
+<h2>Frameworks I used</h2>
+<ul>
+  <li>NestJS</li>
+  <li>ExpressJS</li>
 </ul>
 
 <h2>My Special Skill</h2>
