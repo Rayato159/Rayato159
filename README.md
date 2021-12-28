@@ -36,5 +36,4 @@ const me = isEngineer? 'Programmer' : 'Engineer'
 <p align="left">Backend</p>
 <ul>
   <li>NestJS</li>
-  <li>ExpressJS</li>
 </ul>
