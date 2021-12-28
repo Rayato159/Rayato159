@@ -36,7 +36,6 @@ const me = isEngineer? 'Programmer' : 'Engineer'
   <img src="https://github.com/Rayato159/Rayato159/blob/main/img/angular.png" width="100" heigth="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="110" heigth="110">
   <img src="https://docs.nestjs.com/assets/logo-small.svg" width="110" heigth="110">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="110" heigth="110">
 </p>
 <p align="left">Frontend</p>
 <ul>
