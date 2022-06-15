@@ -11,7 +11,7 @@ func main() {
 ```
 
 <p>
-  My real name is <strong><i>Ruangyot</i></strong> from Thailand. I've' got a full-time job as <strong><i>backend developer</i></strong>.<br>
+  My real name is <strong><i>Ruangyot</i></strong> from Thailand. I've got a full-time job as <strong><i>backend developer</i></strong>.<br>
   I have studied <strong><i>Aeronautical Engineering</i></strong>, but I'd like to be a full-stack developer.
 </p>
 
