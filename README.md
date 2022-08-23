@@ -25,12 +25,12 @@ func main() {
   <li><strong><i>Javascript/Node.js</i></strong></li>
   <ul>
     <li>ReactJs</li>
-    <li>ReactTs</li>
   </ul>
   <p></p>
   <li><strong><i>Typescript</i></strong></li>
   <ul>
     <li>NestJS</li>
+    <li>ReactTs</li>
   </ul>
   <p></p>
   <li><strong><i>Database</i></strong></li>
