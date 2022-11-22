@@ -1,7 +1,6 @@
 <h1>⚡️ <i>Hi, I'm Rayato159</i></h1> 
 
 <img src="./img/rayato159.png" width="160">
-<br>
 
 ```Go
 package main
