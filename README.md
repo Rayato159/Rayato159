@@ -1,6 +1,8 @@
 <h1>⚡️ <i>Hi, I'm Rayato159</i></h1>
 
-<img src="./img/rayato159.png" width="160">
+<h2>🎲 <i>My Badges</i></h2>
+<img src="./img/rayato159-minecraft.png" width="160">
+<img src="./img/rayato159-sci.png" width="160">
 
 ```Go
 package main
