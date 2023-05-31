@@ -36,7 +36,7 @@
 
 <h2>🎉 Events</h2>
 <ul>
-  <li><strong><i>⛳ Code Golf Party #1 - 2022</i></strong></li>
+  <li><strong><i>⛳ Code Golf Party #1 - Bangkok, Thailand - 2022</i></strong></li>
   <ul>
     <li>
 It is a recreational activity for programmers. It is an activity that provides programming problems to solve, and participants are challenged to find the shortest source code solution.</li>
