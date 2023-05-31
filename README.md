@@ -14,6 +14,7 @@
   <ul>
     <li>⚡Go Fiber</li>
   </ul>
+  <p></p>
   <li><strong><i>Rust</i></strong></li>
   <ul>
     <li>🦀Axum</li>
@@ -37,6 +38,7 @@
     <li>🐘PostgreSQL</li>
     <li>🍃MongoDb</li>
   </ul>
+  <p></p>
   <li><strong><i>DevOps</i></strong></li>
   <ul>
     <li>🐳Docker</li>
@@ -46,7 +48,8 @@
 
 <h2>🎉 Events</h2>
 <ul>
-  <li><strong><i>⛳ Code Golf Party #1 - Bangkok, Thailand - 2022</i></strong></li>
+  <li><h3><i>⛳ Code Golf Party #1 - Bangkok, Thailand - 2022</i></h3></li>
+  <p></p>
   <ul>
     <li>
 It is a recreational activity for programmers. It is an activity that provides programming problems to solve, and participants are challenged to find the shortest source code solution.</li>
