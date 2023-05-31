@@ -1,26 +1,8 @@
 <h1>⚡️ <i>Hi, I'm Rayato159</i></h1>
 
 <h2>🎲 <i>My Badges</i></h2>
-<img src="./img/rayato159-minecraft.png" width="160">
-<img src="./img/rayato159-sci.png" width="160">
 
-```Go
-package main
-
-import "fmt"
-
-func toh(n, a, b, c int) {
-  if (n > 0) {
-    toh(n-1, a, c, b)
-    fmt.Printf("move %d to %d\n", a, c)
-    toh(n-1, b, a, c)
-  }
-}
-
-func main() {
-  toh(3, 1, 2, 3)
-}
-```
+<img src="./img/rayato159-minecraft.png" width="86"><img src="./img/rayato159-sci.png" width="86">
 
 <p>
   My real name is <strong><i>Ruangyot</i></strong> from Thailand. I've' got a full-time job as <strong><i>backend developer</i></strong>.<br>
@@ -49,5 +31,14 @@ func main() {
     <li>🐬MySQL</li>
     <li>🐘PostgreSQL</li>
     <li>🍃MongoDb</li>
+  </ul>
+</ul>
+
+<h2>🎉 Events</h2>
+<ul>
+  <li><strong><i>⛳ Code Golf Party #1</i></strong></li>
+  <ul>
+    <li>
+It is a recreational activity for programmers. It is an activity that provides programming problems to solve, and participants are challenged to find the shortest source code solution.</li>
   </ul>
 </ul>
