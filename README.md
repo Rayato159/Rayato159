@@ -5,8 +5,7 @@
 <img src="./img/rayato159-minecraft.png" width="86"><img src="./img/rayato159-sci.png" width="86">
 
 <p>
-  My real name is <strong><i>Ruangyot</i></strong> from Thailand. I've' got a full-time job as <strong><i>backend developer</i></strong>.<br>
-  I have studied <strong><i>Aeronautical Engineering</i></strong>, But all I want to be is a software engineer. I had promised myself to never stop learning. <strong><i>That is the way I have decided</i></strong>.
+  I'm <strong><i>Lookhin</i></strong> from Thailand. I just an indie backend developer who familiar with <strong>Golang</strong>. I've full passion in the software engineer career path. Some day, I hope I'll become a <strong>platform engineer</strong> and do something that useful to a community.
 </p>
 
 <h2>📑 <i>Familiar with</i></h2>
@@ -15,10 +14,16 @@
   <ul>
     <li>⚡Go Fiber</li>
   </ul>
+  <li><strong><i>Rust</i></strong></li>
+  <ul>
+    <li>🦀Axum</li>
+  </ul>
   <p></p>
   <li><strong><i>Javascript/Node.js</i></strong></li>
   <ul>
     <li>⚛️ReactJs</li>
+    <li>✨Express.js</li>
+    <li>✨Svelte</li>
   </ul>
   <p></p>
   <li><strong><i>Typescript</i></strong></li>
@@ -31,6 +36,11 @@
     <li>🐬MySQL</li>
     <li>🐘PostgreSQL</li>
     <li>🍃MongoDb</li>
+  </ul>
+  <li><strong><i>DevOps</i></strong></li>
+  <ul>
+    <li>🐳Docker</li>
+    <li>⛅Google Cloud Platform</li>
   </ul>
 </ul>
 
