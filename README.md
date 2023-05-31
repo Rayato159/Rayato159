@@ -14,31 +14,26 @@
   <ul>
     <li>⚡Go Fiber</li>
   </ul>
-  <p></p>
   <li><strong><i>Rust</i></strong></li>
   <ul>
     <li>🦀Axum</li>
   </ul>
-  <p></p>
   <li><strong><i>Javascript/Node.js</i></strong></li>
   <ul>
     <li>⚛️ReactJs</li>
     <li>✨Express.js</li>
     <li>✨Svelte</li>
   </ul>
-  <p></p>
   <li><strong><i>Typescript</i></strong></li>
   <ul>
     <li>😼NestJS</li>
   </ul>
-  <p></p>
   <li><strong><i>Database</i></strong></li>
   <ul>
     <li>🐬MySQL</li>
     <li>🐘PostgreSQL</li>
     <li>🍃MongoDb</li>
   </ul>
-  <p></p>
   <li><strong><i>DevOps</i></strong></li>
   <ul>
     <li>🐳Docker</li>
