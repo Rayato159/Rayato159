@@ -8,6 +8,20 @@
   I'm <strong><i>Lookhin</i></strong> from Thailand. I just an indie backend developer who familiar with <strong>Golang</strong>. I've full passion in the software engineer career path. Some day, I hope I'll become a <strong>platform engineer</strong> and do something that useful to a community.
 </p>
 
+```go
+func Dfs(graph map[int][]int, node int, visited map[int]bool) {
+    if visited[node] {
+        return
+    }
+    fmt.Printf("->%d", node)
+    visited[node] = true
+
+    for _, neighbor := range graph[node] {
+        Dfs(graph, neighbor, visited)
+    }
+}
+```
+
 <h2>📑 <i>Familiar with</i></h2>
 <ul>
   <li><strong><i>Golang</i></strong></li>
