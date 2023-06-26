@@ -63,4 +63,12 @@ func Dfs(graph map[int][]int, node int, visited map[int]bool) {
     <li>
 It is a recreational activity for programmers. It is an activity that provides programming problems to solve, and participants are challenged to find the shortest source code solution.</li>
   </ul>
+  <li><h3><i>🫵 Stupid Hackathon #7 - Bangkok, Thailand - 2023</i></h3></li>
+  <p></p>
+  <ul>
+    <li>
+The Stupid Hackathon in Thailand is a hackathon that does not have a business or competitive purpose. The main intention is to let makers have fun and unleash their creativity through ridiculous and absurd projects that no one would actually want.</li>
+    <li>My project is the <strong>alarm-bot</strong>. It's a Discord bot that is going to mess your friend aross the server by sent a meme and let discord system to speak by the message you attach along with that meme.</li>
+    <li>Repository of my project: <a href="https://github.com/Rayato159/alarm-bot">https://github.com/Rayato159/alarm-bot</a></li>
+  </ul>
 </ul>
