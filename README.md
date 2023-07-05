@@ -42,6 +42,10 @@ func Dfs(graph map[int][]int, node int, visited map[int]bool) {
   <ul>
     <li>😼NestJS</li>
   </ul>
+  <li><strong><i>Scala</i></strong></li>
+  <ul>
+    <li>🛼Just a basic</li>
+  </ul>
   <li><strong><i>Database</i></strong></li>
   <ul>
     <li>🐬MySQL</li>
