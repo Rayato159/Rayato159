@@ -27,6 +27,7 @@ func Dfs(graph map[int][]int, node int, visited map[int]bool) {
   <li><strong><i>Golang</i></strong></li>
   <ul>
     <li>⚡Go Fiber</li>
+    <li>⚡Echo</li>
   </ul>
   <li><strong><i>Rust</i></strong></li>
   <ul>
@@ -51,9 +52,11 @@ func Dfs(graph map[int][]int, node int, visited map[int]bool) {
     <li>🐬MySQL</li>
     <li>🐘PostgreSQL</li>
     <li>🍃MongoDb</li>
+    <li>🔎Elasticsearch</li>
   </ul>
-  <li><strong><i>DevOps</i></strong></li>
+  <li><strong><i>Others</i></strong></li>
   <ul>
+    <li>⚡gRPC | REST</li>
     <li>🐳Docker</li>
     <li>⛅Google Cloud Platform</li>
   </ul>
