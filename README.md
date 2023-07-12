@@ -2,7 +2,7 @@
 
 <h2>🎲 <i>My Badges</i></h2>
 
-<img src="./img/rayato159-minecraft.png" width="86"><img src="./img/rayato159-sci.png" width="86">
+<img src="./img/rayato159-golang.png" width="86"><img src="./img/rayato159-minecraft.png" width="86"><img src="./img/rayato159-sci.png" width="86">
 
 <p>
   I'm <strong><i>Lookhin</i></strong> from Thailand. I just an indie backend developer who familiar with <strong>Golang</strong>. I've full passion in the software engineer career path. Some day, I hope I'll become a <strong>platform engineer</strong> and do something that useful to a community.
