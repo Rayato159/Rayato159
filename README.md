@@ -31,6 +31,7 @@
   <li><strong><i>Scala</i></strong></li>
   <ul>
     <li>⛰️Akka HTTP</li>
+    <li>⚡ZIO</li>
   </ul>
   <li><strong><i>Database</i></strong></li>
   <ul>
