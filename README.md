@@ -33,6 +33,10 @@
     <li>⛰️Akka HTTP</li>
     <li>⚡ZIO</li>
   </ul>
+  <li><strong><i>Kotlin</i></strong></li>
+  <ul>
+    <li>👨‍🚀Micronaut</li>
+  </ul>
   <li><strong><i>Database</i></strong></li>
   <ul>
     <li>🐬MySQL</li>
