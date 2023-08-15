@@ -18,6 +18,10 @@
   <ul>
     <li>🦀Axum</li>
   </ul>
+  <li><strong><i>C++</i></strong></li>
+  <ul>
+    <li>🎿Data Structure & Algorithm</li>
+  </ul>
   <li><strong><i>Javascript/Node.js</i></strong></li>
   <ul>
     <li>⚛️ReactJs</li>
