@@ -28,6 +28,11 @@
   <ul>
     <li>😼NestJS</li>
   </ul>
+  <li><strong><i>Python</i></strong></li>
+  <ul>
+    <li>🧛🏼Flask</li>
+    <li>🤖Machine Learning</li>
+  </ul>
   <li><strong><i>Scala</i></strong></li>
   <ul>
     <li>⛰️Akka HTTP</li>
@@ -43,6 +48,7 @@
     <li>🐘PostgreSQL</li>
     <li>🍃MongoDb</li>
     <li>🔎Elasticsearch</li>
+    <li>🔥Firebase | Firestore</li>
   </ul>
   <li><strong><i>Others</i></strong></li>
   <ul>
