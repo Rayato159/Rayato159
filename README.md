@@ -1,7 +1,5 @@
 <h1>⚡️ <i>Hi, I'm Rayato159</i></h1>
 
-<img src="./img/rayato-go-1.png" width="256">
-
 <br>
 <p>
   I'm <strong><i>Lookhin</i></strong> from Thailand. I just an indie backend developer who familiar with <strong>Golang</strong>. I've full passion in the software engineer career path. Some day, I hope I'll become a <strong>platform engineer</strong> and do something that useful to a community.
