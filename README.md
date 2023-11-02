@@ -15,6 +15,7 @@
   <li><strong><i>Rust</i></strong></li>
   <ul>
     <li>🦀Axum</li>
+    <li>🎮Bevy</li>
   </ul>
   <li><strong><i>C++</i></strong></li>
   <ul>
@@ -56,6 +57,7 @@
   <ul>
     <li>⚡gRPC | REST | Kafka</li>
     <li>🐳Docker</li>
+    <li>⛵Kubernetes</li>
     <li>⛅Google Cloud Platform</li>
     <li>📩FCM</li>
   </ul>
