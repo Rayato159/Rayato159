@@ -55,7 +55,7 @@
   </ul>
   <li><strong><i>Others</i></strong></li>
   <ul>
-    <li>⚡gRPC | REST | Kafka</li>
+    <li>⚡gRPC | REST</li>
     <li>🐳Docker</li>
     <li>⛵Kubernetes</li>
     <li>⛅Google Cloud Platform</li>
