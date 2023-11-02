@@ -60,5 +60,6 @@
     <li>⛵Kubernetes</li>
     <li>⛅Google Cloud Platform</li>
     <li>📩FCM</li>
+    <li>📩Kafka</li>
   </ul>
 </ul>
