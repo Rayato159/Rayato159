@@ -21,7 +21,7 @@
   <ul>
     <li>🎿Data Structure & Algorithm</li>
   </ul>
-  <li><strong><i>Javascript/Node.js</i></strong></li>
+  <li><strong><i>Javascript/Typescript</i></strong></li>
   <ul>
     <li>✨Svelte</li>
   </ul>
