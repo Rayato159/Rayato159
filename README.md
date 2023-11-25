@@ -23,13 +23,7 @@
   </ul>
   <li><strong><i>Javascript/Node.js</i></strong></li>
   <ul>
-    <li>⚛️ReactJs</li>
-    <li>✨Express.js</li>
     <li>✨Svelte</li>
-  </ul>
-  <li><strong><i>Typescript</i></strong></li>
-  <ul>
-    <li>😼NestJS</li>
   </ul>
   <li><strong><i>Python</i></strong></li>
   <ul>
@@ -39,7 +33,6 @@
   <li><strong><i>Scala</i></strong></li>
   <ul>
     <li>⛰️Akka HTTP</li>
-    <li>⚡ZIO</li>
   </ul>
   <li><strong><i>Kotlin</i></strong></li>
   <ul>
@@ -47,11 +40,9 @@
   </ul>
   <li><strong><i>Database</i></strong></li>
   <ul>
-    <li>🐬MySQL</li>
     <li>🐘PostgreSQL</li>
     <li>🍃MongoDb</li>
-    <li>🔎Elasticsearch</li>
-    <li>🔥Firebase | Firestore</li>
+    <li>🔥Firestore</li>
   </ul>
   <li><strong><i>Others</i></strong></li>
   <ul>
@@ -59,7 +50,6 @@
     <li>🐳Docker</li>
     <li>⛵Kubernetes</li>
     <li>⛅Google Cloud Platform</li>
-    <li>📩FCM</li>
     <li>📩Kafka</li>
   </ul>
 </ul>
