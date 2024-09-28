@@ -30,7 +30,7 @@
   <li><strong><i>Python</i></strong></li>
   <ul>
     <li>🧛🏼Flask</li>
-    <li>🤖Deep Learning</li>
+    <li>🤗Deep Learning</li>
   </ul>
   <li><strong><i>Scala</i></strong></li>
   <ul>
