@@ -24,6 +24,7 @@
   <li><strong><i>Javascript/Typescript</i></strong></li>
   <ul>
     <li>✨Svelte</li>
+    <li>✨NextJS</li>
   </ul>
   <li><strong><i>Python</i></strong></li>
   <ul>
