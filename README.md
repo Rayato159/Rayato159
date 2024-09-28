@@ -19,7 +19,7 @@
   </ul>
   <li><strong><i>C++</i></strong></li>
   <ul>
-    <li>🎿Data Structure & Algorithm</li>
+    <li>🤖ROS</li>
   </ul>
   <li><strong><i>Javascript/Typescript</i></strong></li>
   <ul>
@@ -29,7 +29,7 @@
   <li><strong><i>Python</i></strong></li>
   <ul>
     <li>🧛🏼Flask</li>
-    <li>🤖Machine Learning</li>
+    <li>🤖Deep Learning</li>
   </ul>
   <li><strong><i>Scala</i></strong></li>
   <ul>
