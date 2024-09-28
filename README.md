@@ -15,6 +15,7 @@
   <li><strong><i>Rust</i></strong></li>
   <ul>
     <li>🦀Axum</li>
+    <li>🦀Actix</li>
     <li>🎮Bevy</li>
   </ul>
   <li><strong><i>C++</i></strong></li>
