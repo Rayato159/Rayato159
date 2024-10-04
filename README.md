@@ -2,7 +2,7 @@
 
 <br>
 <p>
-  I'm <strong><i>Lookhin</i></strong> from Thailand. I just an indie full-st(b)ack developer. I've full passion in the software engineer career path. Some day, I hope I'll do something that useful to a community.
+  I'm <strong><i>Lookhin</i></strong> from Thailand. I just an indie full-st(b)ack(end) developer. I've full passion in the software engineer career path. Some day, I hope I'll do something that useful to a community.
 </p>
 
 <h2>📑 <i>Familiar with</i></h2>
