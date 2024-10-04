@@ -18,6 +18,7 @@
     <li>🦀Actix</li>
     <li>🦀Leptos</li>
     <li>🎮Bevy</li>
+    <li>🎮godot-rust</li>
   </ul>
   <li><strong><i>C++</i></strong></li>
   <ul>
