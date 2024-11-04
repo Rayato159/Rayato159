@@ -1,59 +1,46 @@
-<h1>⚡️ <i>Hi, I'm Rayato159</i></h1>
+# ⚡️ *Hi, I'm Rayato159*
 
-<br>
-<p>
-  I'm <strong><i>Lookhin</i></strong> from Thailand. I just an indie full-st(b)ack(end) developer. I've full passion in the software engineer career path. Some day, I hope I'll do something that useful to a community.
-</p>
+<img width=128 src="./assets/Ruangyot05.png" />
+<img width=64 src="./assets/Ruangyot06.png" />
 
-<h2>📑 <i>Familiar with</i></h2>
-<ul>
-  <li><strong><i>Golang</i></strong></li>
-  <ul>
-    <li>⚡Go Fiber</li>
-    <li>⚡Echo</li>
-  </ul>
-  <li><strong><i>Rust</i></strong></li>
-  <ul>
-    <li>🦀Axum</li>
-    <li>🦀Actix</li>
-    <li>🦀Leptos</li>
-    <li>🎮Bevy</li>
-    <li>🎮godot-rust</li>
-  </ul>
-  <li><strong><i>C++</i></strong></li>
-  <ul>
-    <li>🤖ROS</li>
-  </ul>
-  <li><strong><i>Javascript/Typescript</i></strong></li>
-  <ul>
-    <li>✨Svelte</li>
-    <li>✨NextJS</li>
-  </ul>
-  <li><strong><i>Python</i></strong></li>
-  <ul>
-    <li>🧛🏼Flask</li>
-    <li>🤗Deep Learning</li>
-  </ul>
-  <li><strong><i>Scala</i></strong></li>
-  <ul>
-    <li>⛰️Akka HTTP</li>
-  </ul>
-  <li><strong><i>Kotlin</i></strong></li>
-  <ul>
-    <li>👨‍🚀Micronaut</li>
-  </ul>
-  <li><strong><i>Database</i></strong></li>
-  <ul>
-    <li>🐘PostgreSQL</li>
-    <li>🍃MongoDb</li>
-    <li>🔥Firestore</li>
-  </ul>
-  <li><strong><i>Others</i></strong></li>
-  <ul>
-    <li>⚡gRPC | REST</li>
-    <li>🐳Docker</li>
-    <li>⛵Kubernetes</li>
-    <li>⛅Google Cloud Platform</li>
-    <li>📩Kafka</li>
-  </ul>
-</ul>
+I'm **_Lookhin_** from Thailand 🌴. Just a chill indie full-st(b)ack(end) dev 🔥. Got that full-on passion for the software engineering grind 💻✨. One day, imma do something that's gonna slap and be hella useful for the community 🚀🤝.
+
+## 📑 *Familiar with*
+
+- **_Golang_ (Nah, not vibing with it 🚫)**
+  - ⚡ Go Fiber
+  - ⚡ Echo
+
+- **_Rust_**
+  - 🦀 Axum
+  - 🦀 Actix
+  - 🦀 Leptos
+  - 🎮 Bevy
+  - 🎮 godot-rust
+
+- **_Javascript/Typescript_**
+  - ✨ Svelte
+  - ✨ NextJS
+
+- **_Python_**
+  - 🧛🏼 Flask
+  - 🤗 Deep Learning
+
+- **_Scala_**
+  - ⛰️ Akka HTTP
+
+- **_Kotlin_**
+  - 👨‍🚀 Micronaut
+
+- **_Database_**
+  - 🐘 PostgreSQL
+  - 🍃 MongoDB
+  - 🔥 Firestore
+  - 🚀 Qdrant
+
+- **_Others_**
+  - ⚡ gRPC | REST
+  - 🐳 Docker
+  - ⛵ Kubernetes
+  - ⛅ Google Cloud Platform
+  - 📩 Kafka
