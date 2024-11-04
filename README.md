@@ -1,17 +1,18 @@
-# ⚡️ *Hi, I'm Rayato159*
+# ⚡️ _Hi, I'm Rayato159_
 
-<img width=128 src="./assets/Ruangyot05.png" />
-<img width=64 src="./assets/Ruangyot06.png" />
+<img width=128 src="./assets/Ruangyot05.png" /> <img width=64 src="./assets/Ruangyot06.png" />
 
 I'm **_Lookhin_** from Thailand 🌴. Just a chill indie full-st(b)ack(end) dev 🔥. Got that full-on passion for the software engineering grind 💻✨. One day, imma do something that's gonna slap and be hella useful for the community 🚀🤝.
 
-## 📑 *Familiar with*
+## 📑 _Familiar with_
 
 - **_Golang_ (Nah, not vibing with it 🚫)**
+
   - ⚡ Go Fiber
   - ⚡ Echo
 
 - **_Rust_**
+
   - 🦀 Axum
   - 🦀 Actix
   - 🦀 Leptos
@@ -19,20 +20,25 @@ I'm **_Lookhin_** from Thailand 🌴. Just a chill indie full-st(b)ack(end) dev 
   - 🎮 godot-rust
 
 - **_Javascript/Typescript_**
+
   - ✨ Svelte
   - ✨ NextJS
 
 - **_Python_**
+
   - 🧛🏼 Flask
   - 🤗 Deep Learning
 
 - **_Scala_**
+
   - ⛰️ Akka HTTP
 
 - **_Kotlin_**
+
   - 👨‍🚀 Micronaut
 
 - **_Database_**
+
   - 🐘 PostgreSQL
   - 🍃 MongoDB
   - 🔥 Firestore
