@@ -10,9 +10,11 @@ I'm **_Lookhin_** from Thailand. Just a chill indie full-st(b)ack(end) dev 🦀�
 
   - 🦀 Axum
   - 🦀 Actix
+  - 🦀 Ntex
   - 🦀 Leptos
   - 🎮 Bevy
   - 🎮 godot-rust
+  - 🪄 Anchor (Solana)
 
 - **_Golang_ (Rust is better at all 🚫)**
 
@@ -26,7 +28,6 @@ I'm **_Lookhin_** from Thailand. Just a chill indie full-st(b)ack(end) dev 🦀�
 
 - **_Python_**
 
-  - 🧛🏼 Flask
   - 🤗 Deep Learning
 
 - **_Scala_**
@@ -43,10 +44,12 @@ I'm **_Lookhin_** from Thailand. Just a chill indie full-st(b)ack(end) dev 🦀�
   - 🍃 MongoDB
   - 🔥 Firestore
   - 🚀 Qdrant
+  - 🫣 SQLite
 
 - **_Others_**
-  - ⚡ gRPC | REST
-  - 🐳 Docker
+  - ⚡ REST | gRPC | MCP (Rust-SDK 🦀)
+  - 📦 Docker | Podman 
   - ⛵ Kubernetes
-  - ⛅ Google Cloud Platform
+  - ⛅ GCP
+  - 🐳 AWS
   - 📩 Kafka
