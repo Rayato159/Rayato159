@@ -2,7 +2,7 @@
 
 <img src="./assets/crabs.gif" /> <br />
 
-I'm **_Lookhin_** from Thailand. Just a chill indie full-st(b)ack(end) dev 🦀🦀🦀 (Rust main). Got that full-on passion for the software engineering. One day, I'll do something that's gonna slap and useful for the community 🚀🤝.
+I'm **_Lookhin_** from Thailand. I'm just an indie developer who enjoys contributing to open source 🦀💀.
 
 ## 📑 _Familiar with_
 
@@ -13,43 +13,36 @@ I'm **_Lookhin_** from Thailand. Just a chill indie full-st(b)ack(end) dev 🦀�
   - 🦀 Ntex
   - 🦀 Leptos
   - 🎮 Bevy
-  - 🎮 godot-rust
   - 🪄 Anchor (Solana)
 
-- **_Golang_ (Rust is better at all 🚫)**
+- **_Typescript_**
 
-  - ⚡ Go Fiber
-  - ⚡ Echo
-
-- **_Javascript/Typescript_**
-
-  - ✨ Svelte
   - ✨ NextJS
 
 - **_Python_**
 
   - 🤗 Deep Learning
 
-- **_Scala_**
-
-  - ⛰️ Akka HTTP
-
-- **_Kotlin_**
-
-  - 👨‍🚀 Micronaut
-
 - **_Database_**
 
   - 🐘 PostgreSQL
   - 🍃 MongoDB
-  - 🔥 Firestore
   - 🚀 Qdrant
   - 🫣 SQLite
 
-- **_Others_**
+- **_Infrastructures_**
+
   - ⚡ REST | gRPC | MCP (Rust-SDK 🦀)
-  - 📦 Docker | Podman 
+  - 📦 Docker | Podman
   - ⛵ Kubernetes
   - ⛅ GCP
-  - 🐳 AWS
   - 📩 Kafka
+
+- **_Arts_**
+
+  - 🖌️ Aseprite
+  - 🖼️ Blender
+
+- **_Musics Production_**
+
+  - 🎹+🎸 FL Studio
